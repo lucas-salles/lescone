@@ -1,3 +1,3 @@
-# Projeto desenvolvido no curso de Sass da Origamid.
+# Projeto desenvolvido durante os meus estudos de Sass.
 
 ![alt text](img/LeSconeCapa.png)
